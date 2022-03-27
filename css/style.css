@@ -527,14 +527,14 @@ input::placeholder {
 }
 .header__menu_act::before {
   content: "";
-  background: url("/img/bascet.png") left no-repeat;
+  background: url("./img/bascet.png") left no-repeat;
   width: 17px;
   height: 17px;
   padding: 0 0 0 25px;
 }
 .header__menu_act::after {
   content: "";
-  background: url("/img/zero_2.png") right no-repeat;
+  background: url("./img/zero_2.png") right no-repeat;
   width: 20px;
   height: 20px;
   padding: 0 0 0 25px;
